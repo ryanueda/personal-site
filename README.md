@@ -1,6 +1,6 @@
 # Personal Website
 
 A personal projects/portfolio webpage served using netlify and React at: <br>
-<src>ryanueda.netlify.app</src>
+[ryanueda.netlify.app](ryanueda.netlify.app)
 
 template adapted from user @mldangelo
