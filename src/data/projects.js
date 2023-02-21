@@ -35,14 +35,14 @@ const data = [
       + 'as well as high level mathematical overview to land the aircraft',
   },
   {
-    title: 'Cat Detector',
-    subtitle: 'A convolutional neural network to classify cats! (and dogs)',
-    image: '/images/projects/catdetector.jpg',
-    date: '2015-05-15',
+    title: 'Time Series Analysis & Forecasting With LSTM',
+    subtitle: 'Time Series Analysis & Forecasting With LSTM',
+    image: '/images/projects/timeseries.jpg',
+    date: '2022-10-15',
     desc:
-      'Trained a convolutional neural network to classify between ~ 80 cats breeds. '
-      + 'Over 60,000 cats were classified before server bills made the project too expensive '
-      + 'to continue hosting.',
+      'Time Series Analysis & Forecasting With LSTM. '
+      + 'Use of Long Short-Term Memory Deep Learning Models '
+      + 'to analyse and forecast time series data',
   },
 ];
 
