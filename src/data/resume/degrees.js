@@ -1,15 +1,15 @@
 const degrees = [
   {
-    school: 'Stanford University',
-    degree: 'M.S. Computational and Mathematical Engineering',
-    link: 'https://stanford.edu',
-    year: 2016,
+    school: 'Singapore Polytechnic',
+    degree: 'Diploma In Applied AI & Analytics',
+    link: 'https://sp.edu.sg',
+    year: 2024,
   },
   {
-    school: 'University at Buffalo',
-    degree: 'B.S. Electrical Engineering, Computer Engineering',
-    link: 'https://buffalo.edu',
-    year: 2012,
+    school: 'St Hildas Secondary',
+    degree: "GCE 'O' Levels",
+    link: 'https://sthildassec.moe.edu.sg/',
+    year: 2020,
   },
 ];
 

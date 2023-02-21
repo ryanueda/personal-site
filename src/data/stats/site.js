@@ -9,16 +9,17 @@ const data = [
     label: 'Stars this repository has on github',
     key: 'stargazers_count',
     link: 'https://github.com/mldangelo/personal-site/stargazers',
+    value: '0',
   },
   {
     label: 'Number of people watching this repository',
     key: 'subscribers_count',
-    link: 'https://github.com/mldangelo/personal-site/stargazers',
+    value: '0',
   },
   {
     label: 'Number of forks',
     key: 'forks',
-    link: 'https://github.com/mldangelo/personal-site/network',
+    link: '0',
   },
   {
     label: 'Number of spoons',
