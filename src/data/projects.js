@@ -37,12 +37,13 @@ const data = [
   {
     title: 'Time Series Analysis & Forecasting With LSTM',
     subtitle: 'Time Series Analysis & Forecasting With LSTM',
+    link: 'https://github.com/ryanueda/LSTM-Time-Series',
     image: '/images/projects/timeseries.jpg',
     date: '2022-10-15',
     desc:
       'Time Series Analysis & Forecasting With LSTM. '
       + 'Use of Long Short-Term Memory Deep Learning Models '
-      + 'to analyse and forecast time series data',
+      + 'to analyse and forecast time series data.',
   },
 ];
 
