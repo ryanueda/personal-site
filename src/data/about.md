@@ -18,18 +18,17 @@ At SP, I have learned how to build teams, manage people, shape culture, develop 
 
 # Fun facts
 
-- I'm partially Japanese (my grandfather !)
+- I'm partially Japanese (my grandfather)
 - I have two surnames, Ueda and Teo
-- Even though im legally Teochew, I possess 0 Teochew blood
 - I have an older sister
-- I loveeee pastries and tea
+- I loveeee pastries and tea <3
 
 # I Wish To
 
 - own my dream house
 - own a dog again (its been a decade)
 - start a cafe/bakery
-- progress in my academia
+- academia advancement
 
 # Some People I Admire
 

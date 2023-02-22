@@ -43,7 +43,7 @@ const positions = [
     daterange: 'December 2020 - April 2021',
     points: [
       'Guided and supported students with helpful study habits and exam strategies',
-      'Promoted development of growth mindset and leanring skills',
+      'Promoted development of growth mindset and learning skills',
       'Assisted students with homework and provided supplementary instruction',
       'Collaborated with students to complete homework assignments, identify lagging sklls and correct weaknessses',
     ],
