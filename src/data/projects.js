@@ -24,6 +24,17 @@ const data = [
       + 'to classify images from the CIFAR100 dataset',
   },
   {
+    title: 'Opticial Character Recognition For Financial Analysis Dashboard',
+    subtitle: '',
+    link: 'https://github.com/ryanueda/OCR-Finance-Dashboard-Analytics',
+    image: '/images/projects/dashboard.png',
+    date: '2023-03-10',
+    desc:
+      'Opticial Character Recognition For Financial Analysis Dashboard. '
+      + 'Scrape PDF table data in bank statements and data wrangling '
+      + 'to enable data visualizations and analytical dashboard for financial data',
+  },
+  {
     title: 'Reinforcement Learning With OpenAI',
     subtitle: 'Various models and high-level mathematical overview of RL and Q-Learning',
     link: 'https://github.com/ryanueda/Reinforcement-Learning-Lunar-Lander',
