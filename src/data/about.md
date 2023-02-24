@@ -26,7 +26,7 @@ At SP, I have learned how to build teams, manage people, shape culture, develop 
 # I Wish To
 
 - own my dream house
-- own a dog again (its been a decade)
+- own a dog again
 - start a cafe/bakery
 - academia advancement
 
