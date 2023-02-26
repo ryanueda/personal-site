@@ -32,7 +32,8 @@ const data = [
     desc:
       'Opticial Character Recognition For Financial Analysis Dashboard. '
       + 'Scrape PDF table data in bank statements and data wrangling '
-      + 'to enable data visualizations and analytical dashboard for financial data',
+      + 'to enable data visualizations and analytical dashboard for financial data.'
+      + 'Deployed at https://ryanueda.streamlit.app',
   },
   {
     title: 'Reinforcement Learning With OpenAI',
