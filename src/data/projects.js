@@ -27,7 +27,7 @@ const data = [
     title: 'Opticial Character Recognition For Financial Analysis Dashboard',
     subtitle: '',
     link: 'https://github.com/ryanueda/OCR-Finance-Dashboard-Analytics',
-    image: '/images/projects/dashboard.png',
+    image: '/images/projects/dashboard.jpg',
     date: '2023-03-10',
     desc:
       'Opticial Character Recognition For Financial Analysis Dashboard. '
