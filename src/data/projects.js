@@ -44,7 +44,7 @@ const data = [
     desc:
       'Reinforcement Learning On OpenAI LunarLander-v2 '
       + 'Usage of multiple variations of Q-Learning & Actor-Critic algorithms, '
-      + 'as well as high level mathematical overview to land the aircraft',
+      + 'as well as high level mathematical overview to land the aircraft. Technical Paper In GitHub.',
   },
   {
     title: 'Time Series Analysis & Forecasting With LSTM',
