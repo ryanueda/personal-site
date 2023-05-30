@@ -1,10 +1,12 @@
 const positions = [
   {
     company: 'foodpanda',
-    position: 'Data Analyst, People Analytics',
+    position: 'Data Analyst',
     link: 'https://foodpanda.com',
     daterange: 'March 2023 - Present',
     points: [
+      'AI modelling for classification & forecasting',
+      'Data wrangling & preprocessing',
       'Assist in reporting and dashboard creation and maintenance',
       'Assist in data extraction from the data warehouse',
       'Collaborate with stakeholders to compile HR metrics from various sources',
