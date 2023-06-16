@@ -36,6 +36,18 @@ const data = [
       + 'Deployed at https://ryanueda.streamlit.app',
   },
   {
+    title: 'Heart Disease Predictor',
+    subtitle: '',
+    link: 'https://yans-heart-disease-predictor.onrender.com/home',
+    image: '/images/projects/heartpredictor.jpeg',
+    date: '2022-08-17',
+    desc:
+      'Predictor For Likelihood Of Heart Disease.'
+      + 'Trained using Tensorflow with featire engineering and EDA '
+      + 'to ensure data integrity and accurate prediction'
+      + 'Deployed at https://ryanueda.streamlit.app',
+  },
+  {
     title: 'Reinforcement Learning With OpenAI',
     subtitle: 'Various models and high-level mathematical overview of RL and Q-Learning',
     link: 'https://github.com/ryanueda/Reinforcement-Learning-Lunar-Lander',
