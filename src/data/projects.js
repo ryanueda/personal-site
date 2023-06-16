@@ -39,7 +39,7 @@ const data = [
     title: 'Heart Disease Predictor',
     subtitle: '',
     link: 'https://yans-heart-disease-predictor.onrender.com/home',
-    image: '/images/projects/heartpredictor.jpeg',
+    image: '/images/projects/heartpredictor.jpg',
     date: '2022-08-17',
     desc:
       'Predictor For Likelihood Of Heart Disease.'
